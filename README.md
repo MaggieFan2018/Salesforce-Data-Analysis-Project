@@ -9,9 +9,9 @@ In this project, we are working with the Salesforce data of Auto/mate, to uncove
 - Conversion of opportunities into closed won/closed lost (Image 2)
 
 
-We will identify the patterns and findings using appropriate algorithms in the above two categories of the sales process. More details can be found in the report file.
+We will identify the patterns and findings using appropriate algorithms in the above two categories of the sales process. More details can be found in the poster file.
 
 
 <p align="center">
-<img src="Image.png">
+<img src="image.png">
 </p>
