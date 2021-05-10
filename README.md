@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-In this project, we are working with the Salesforce data of Auto/mate, to uncover the behavioral patterns of the leads through the sales funnel. As per the data, major changes are at the stage of the proposal submitted to closed won. Our project will limit our analysis on two broad areas as mentioned below:
+In this project, we are working with the Salesforce data of Auto/Mate, to uncover the behavioral patterns of the leads through the sales funnel. As per the data, major changes are at the stage of the proposal submitted to closed won. Our project will limit our analysis on two broad areas as mentioned below:
 
 - Conversion of leads to opportunities (Image 1)
 
