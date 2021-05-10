@@ -12,4 +12,6 @@ In this project, we are working with the Salesforce data of Auto/mate, to uncove
 We will identify the patterns and findings using appropriate algorithms in the above two categories of the sales process. More details can be found in the report file.
 
 
-
+<p align="center">
+<img src="Image.png">
+</p>
